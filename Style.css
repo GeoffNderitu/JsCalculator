@@ -1,0 +1,41 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(226, 224, 224);
+}
+.parent{
+    background-color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    margin: 30px auto;
+    width: 40%;
+    height: 60vh;
+    padding: 40px;
+}
+input{
+    width: 70%;
+    height: 6vh;
+    margin-top: 30px;
+    font-size: 20px;
+}
+label{
+    margin-left: 20px;
+}
+button{
+    width: 32%;
+    height: 6vh;
+    margin-top: 30px;
+}
+#majibu{
+    margin-top: 30px;
+    margin-left: 110px;
+    text-align: center;
+    font-size: 20px;
+}
+.multi{
+    margin-left: 115px;
+}
+.gawa{
+    margin-left: 40px;
+}
